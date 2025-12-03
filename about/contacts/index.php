@@ -21,7 +21,7 @@ $APPLICATION->SetTitle("Задайте вопрос");
 			"EMAIL_TO" => "sale@nyuta.bx",
 			"EVENT_MESSAGE_ID" => array(),
 			"OK_TEXT" => "Спасибо, ваше сообщение принято.",
-			"REQUIRED_FIELDS" => array("NAME","EMAIL"),
+			"REQUIRED_FIELDS" => array("NAME"),
 			"USE_CAPTCHA" => "Y"
 		)
 	);?>
